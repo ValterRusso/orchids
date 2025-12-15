@@ -1,5 +1,9 @@
 # 🌸 Vanda roxa suspensa
 
+## Photo
+
+<img src="/photos/wanda-003.JPEG">
+
 **Nome científico:** *Vanda hybrid*  
 **Identificação:** Flor roxa com centro branco e amarelo. Cultivada suspensa com raízes aéreas livres.  
 **Origem:** Sudeste Asiático  
