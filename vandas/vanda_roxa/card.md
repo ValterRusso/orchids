@@ -2,7 +2,7 @@
 
 ## Photo
 
-<img src="/photos/wanda_002.JPEG">
+![vanda3](/photos/wanda_003.JPEG)
 
 **Nome científico:** *Vanda hybrid*  
 **Identificação:** Flor roxa com centro branco e amarelo. Cultivada suspensa com raízes aéreas livres.  
