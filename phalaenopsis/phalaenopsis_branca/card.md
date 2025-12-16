@@ -1,4 +1,8 @@
-# 🌸 Phalaenopsis branca
+# 🌸 Phalaenopsis 
+
+## Photo
+
+![branca](/photos/pha-004.JPEG)
 
 **Nome científico:** *Phalaenopsis sp.*  
 **Identificação:** Flor branca com pétalas arredondadas e dois botões visíveis. Cultivada em ambiente doméstico.  
