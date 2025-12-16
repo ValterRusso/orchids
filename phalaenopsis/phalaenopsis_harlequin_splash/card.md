@@ -1,4 +1,7 @@
 # 🌸 Phalaenopsis Híbrida — Harlequin Splash
+
+## Photo
+![harlequin](/photos/pha-002.JPEG)
 Cartão de Identificação Botânica  
 Última atualização: 2025-12-11
 
