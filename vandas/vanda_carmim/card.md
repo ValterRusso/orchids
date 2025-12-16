@@ -1,26 +1,30 @@
-# 🌸 Vanda roxa
+# 🌸 vanda carmim (híbrida) em Kaizuca
 
-**Nome científico:** *Vanda sp.*  
-**Identificação:** Flor roxa vibrante, folhas em leque e raízes aéreas pendentes. Cultivada diretamente em árvore.  
-**Origem:** Sudeste Asiático  
+## Photo
+
+![vanda](/photos/wanda_001.jpeg)
+
+**Nome científico:** *Cattleya hybrid*  
+**Identificação:** Flores rosa vibrantes com centro amarelo e branco. Cultivada diretamente em tronco de Kaizuca.  
+**Origem:** Hibridação comercial (descendência de espécies sul-americanas)  
 **Tipo:** Epífita tropical  
 
 ## ☀️ Luz
-Alta luminosidade, com sol direto filtrado. Ideal para cultivo suspenso ou em árvores.
+Alta luminosidade, com sol direto filtrado pelas folhas da árvore hospedeira.
 
 ## 💧 Rega
-Diária em dias quentes, preferencialmente por borrifação nas raízes. Evitar encharcamento.
+Natural por chuvas e umidade ambiente. Pode ser complementada com borrifações em períodos secos.
 
 ## 🧪 Adubação
-Semanal com adubo foliar específico para orquídeas (NPK 30-10-10 para crescimento ou 10-30-20 para floração).
+Mensal com adubo específico para orquídeas epífitas (preferencialmente via pulverização foliar).
 
 ## 🌱 Substrato
-Não utiliza substrato tradicional. Raízes livres e expostas, aderidas ao tronco.
+Sem substrato tradicional. Raízes enganchadas diretamente no tronco da Kaizuca.
 
 ## 🌳 Ambiente
-Cultivada ao ar livre, próxima à piscina, com vegetação e boa ventilação. Exposta ao sol e umidade natural.
+Cultivada ao ar livre, fixada em árvore do tipo Kaizuca. Ambiente com vegetação e boa circulação de ar.
 
 ## 📝 Observações pessoais
 - Florada registrada em **14/12/2025**  
-- Planta saudável, com raízes aéreas bem desenvolvidas  
-- Cultivo em árvore, sem vaso, com excelente resposta à luz intensa
+- Raízes bem aderidas ao tronco, sem vaso  
+- Planta saudável e adaptada ao cultivo natural
