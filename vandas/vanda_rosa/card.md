@@ -2,7 +2,7 @@
 
 ## photo
 
-<img src="/photos/wanda_001.jpeg">
+![vanda2](/photos/wanda_002.JPEG)
 
 **Nome científico:** *Cattleya hybrid*  
 **Identificação:** Flores rosa vibrantes com centro amarelo e branco. Cultivada diretamente em tronco de Kaizuca.  
