@@ -1,5 +1,9 @@
 # 🌸 Phalaenopsis amarela com centro rosa
 
+## Photo
+
+![amarela](/photos/pha-003.JPEG)
+
 **Nome científico:** *Phalaenopsis hybrid*  
 **Identificação:** Flores amarelas pálidas com centro rosa-avermelhado. Hastes arqueadas com múltiplas flores e botões.  
 **Origem:** Hibridação comercial de espécies asiáticas  
