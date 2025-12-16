@@ -1,5 +1,9 @@
 # 🌸 Phalaenopsis mini rosa
 
+## Photo
+
+![mini_rosa](/photos/pha_mini-007.JPEG)
+
 **Nome científico:** *Phalaenopsis hybrid (mini)*  
 **Identificação:** Flor rosa salpicada com centro branco. Planta de porte pequeno, cultivada em vaso de barro com furos.  
 **Origem:** Hibridação comercial de espécies asiáticas  
