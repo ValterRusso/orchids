@@ -1,5 +1,9 @@
 # 🌸 Phalaenopsis manchada (híbrida)
 
+## Photo
+
+![manchada](/photos/pha-005.JPEG)
+
 **Nome científico:** *Phalaenopsis hybrid*  
 **Identificação:** Flores brancas com manchas magenta profundas e labelo amarelo. Vários botões ainda não abertos.  
 **Origem:** Hibridação comercial (descendência de espécies asiáticas)  
